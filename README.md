@@ -12,9 +12,10 @@
 ### SQL Developer
 
 Nov 2014 - Dec 2015
+
 Basis Inc, Saransk, Russia
 
-Various SQL queries
+Writing queries and render it into .docx
 
 Tech stack:
 Java, T-SQL
@@ -22,6 +23,7 @@ Java, T-SQL
 ### Backend Python Developer
 
 Jan 2016 - Feb 2017
+
 IcanTech Inc, Tel-Aviv, Israel
 
 Online casino backoffice report system.
@@ -32,6 +34,7 @@ Python, gevent, celery, sqlalchemy, MySQL, Redis
 ### Backend Python Developer
 
 Feb 2017 - Feb 2018
+
 Russian Media Group Inc
 
 Backend development of sites rusradio.ru and montecarlo.ru.
