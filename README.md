@@ -35,7 +35,7 @@ Python, gevent, celery, sqlalchemy, MySQL, Redis
 
 Feb 2017 - Feb 2018
 
-Russian Media Group Inc
+Russian Media Group Inc, Moscow, Russia
 
 Backend development of sites rusradio.ru and montecarlo.ru.
 
