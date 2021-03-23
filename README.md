@@ -1,5 +1,5 @@
 # Artem Kanev
-## Python/Haskell backend developer
+## Haskell/Rust backend developer
 
 - https://www.facebook.com/artyom.kanev
 - https://github.com/nixorn
@@ -46,7 +46,7 @@ Python, Flask, docker, Postgresql, Redis
 
 Feb 2018 - June 2019
 
-Various Haskell and Python tasks
+Various Haskell and Python tasks on Upwork
 
 ### Backend Haskell Developer
 
