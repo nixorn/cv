@@ -41,3 +41,17 @@ Backend development of sites rusradio.ru and montecarlo.ru.
 
 Tech stack:
 Python, Flask, docker, Postgresql, Redis
+
+### Freelance Python Developer
+
+Feb 2018 - June 2019
+
+Various Haskell and Python tasks
+
+### Backend Haskell Developer
+
+June 2019 - Now
+
+GetShop.TV, Moscow, Russia
+
+Development of internal statistic services + general infrastucture internal engineering activities, DevOps.
