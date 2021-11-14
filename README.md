@@ -54,4 +54,4 @@ June 2019 - Now
 
 GetShop.TV, Moscow, Russia
 
-Development of internal statistic services + general infrastucture internal engineering activities, DevOps.
+Lead developer, teamlead, internal infrastucture engineering, DevOps.
